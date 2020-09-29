@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/frontend-exam/static/css/main.dd1319ac.chunk.css",
+    "main.js": "/frontend-exam/static/js/main.508e1e24.chunk.js",
+    "main.js.map": "/frontend-exam/static/js/main.508e1e24.chunk.js.map",
+    "runtime-main.js": "/frontend-exam/static/js/runtime-main.c55cc90b.js",
+    "runtime-main.js.map": "/frontend-exam/static/js/runtime-main.c55cc90b.js.map",
+    "static/js/2.cc0e0514.chunk.js": "/frontend-exam/static/js/2.cc0e0514.chunk.js",
+    "static/js/2.cc0e0514.chunk.js.map": "/frontend-exam/static/js/2.cc0e0514.chunk.js.map",
+    "index.html": "/frontend-exam/index.html",
+    "precache-manifest.8b24d2c02e7b73441a8352107a868ee5.js": "/frontend-exam/precache-manifest.8b24d2c02e7b73441a8352107a868ee5.js",
+    "service-worker.js": "/frontend-exam/service-worker.js",
+    "static/css/main.dd1319ac.chunk.css.map": "/frontend-exam/static/css/main.dd1319ac.chunk.css.map",
+    "static/js/2.cc0e0514.chunk.js.LICENSE.txt": "/frontend-exam/static/js/2.cc0e0514.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/frontend-exam/static/media/background.5b85f90b.png",
+    "static/media/loader.e10411cc.svg": "/frontend-exam/static/media/loader.e10411cc.svg",
+    "static/media/logo_dark.png": "/frontend-exam/static/media/logo_dark.42dbc4d1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c55cc90b.js",
+    "static/js/2.cc0e0514.chunk.js",
+    "static/css/main.dd1319ac.chunk.css",
+    "static/js/main.508e1e24.chunk.js"
+  ]
+}
